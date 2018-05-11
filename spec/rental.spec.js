@@ -23,7 +23,7 @@ describe('Rental', function () {
     expect(actualResult).toEqual(properResult);
   });
 
-  it('should return the proper result', function () {
+  xit('should return the proper result', function () {
     var properResult =
     'Rental Record for martin\n' +
     '\tCars 2\t6\n' +
@@ -40,7 +40,7 @@ describe('Rental', function () {
     expect(actualResult).toEqual(properResult);
   });
 
-  it('should return the proper result', function () {
+  xit('should return the proper result', function () {
     var properResult =
     'Rental Record for martin\n' +
     '\tAvengers\t15\n' +
