@@ -1,5 +1,5 @@
 describe("Salary Tests", ()=> {
-  it("should verify susan's salary was increased", ()=> {
+  it("should verify employee's salary was increased", ()=> {
     employee = {
         salary : 50000,
         taxWithheld: 10000
