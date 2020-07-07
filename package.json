@@ -30,6 +30,6 @@
     "stryker-karma-runner": "^0.4.5"
   },
   "dependencies": {
-    "npm": "^6.0.1"
+    "npm": "^6.14.6"
   }
 }
